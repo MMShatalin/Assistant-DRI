@@ -1,0 +1,432 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Моя картограмма</name>
+    </assembly>
+    <members>
+        <member name="F:Моя_картограмма.About.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Моя_картограмма.About.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Моя_картограмма.About.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Моя_картограмма.oneTVS">
+            <summary>
+            Класс описывающий одну ТВС на картограмме
+            </summary>
+            
+        </member>
+        <member name="F:Моя_картограмма.oneTVS._smena">
+            <summary>
+            Условное обозначение смены в которую была загружена ТВС
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.oneTVS._VisotaOtmetka">
+            <summary>
+            Информация, введенная пользователем о повысотной отметки
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.oneTVS._isLoaded">
+            <summary>
+            флаг символизирующий загруженна ТВС или нет
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.oneTVS._redmark">
+            <summary>
+            Булевская метка о том что было замечание при загрузке топлива у кажой ТВС
+            </summary>
+        </member>
+        <member name="P:Моя_картограмма.oneTVS.Zamechanie">
+            <summary>
+            Замечание возникшее при загрузке кассеты
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.oneTVS._TVSnumber">
+            <summary>
+            Порядковый номер ТВС от 1...163, иногда нужен для цикла форич
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.oneTVS.color">
+            <summary>
+            Цвет закраски твс
+            </summary>
+            
+        </member>
+        <member name="F:Моя_картограмма.oneTVS._loadNumber">
+            <summary>
+            Порядковый номер загрузки от 1 до 163
+            </summary>
+        </member>
+        <member name="P:Моя_картограмма.oneTVS.LoadNumber">
+            <summary>
+            порпядковый номер загрузки в зону
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.oneTVS._cord">
+            <summary>
+            Кордината ТВС, например 15-24
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.oneTVS._canvasCord">
+            <summary>
+            Координата центра ТВС на конве
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.oneTVS._Hex">
+            <summary>
+            тут будут такие поля как текст, цвет, но самое главное коордлинаты 6 углов
+            </summary>
+        </member>
+        <member name="M:Моя_картограмма.oneTVS.#ctor">
+            <summary>
+            Конструктор
+            </summary>
+        </member>
+        <member name="M:Моя_картограмма.SU.#ctor(System.Drawing.Point,System.Int32,System.Int32,System.Drawing.Point)">
+            <summary>
+            Конструктор СИГНАЛИЗАТОРА УРОВНЯ
+            </summary>
+            <param name="mypoint">Координата </param>
+        </member>
+        <member name="M:Моя_картограмма.SU.setCord(System.Drawing.Point,System.Int32)">
+            <summary>
+            Будет ставит новые координаты после вращения 
+            </summary>
+            <param name="newCord"></param>
+            <param name="FA"></param>
+        </member>
+        <member name="F:Моя_картограмма.Cartogram.mynextTVS">
+            <summary>
+            свойство необходимое только для сериализации для сохранения этого параметра
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.Cartogram.linGrBrush">
+            <summary>
+            эта как раз и есть градиентная кисточка для закраски
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.Cartogram.faza">
+            <summary>
+            угол поворота стола
+            </summary>
+        </member>
+        <member name="M:Моя_картограмма.Cartogram.InitComponentsAfterDeserialize(System.Drawing.Graphics,System.Windows.Forms.PictureBox,System.Drawing.Pen)">
+            <summary>
+            Инициализируем занова несериализцемые компонеты
+            </summary>
+            <param name="ng"></param>
+            <param name="npic"></param>
+        </member>
+        <member name="M:Моя_картограмма.Cartogram.RotateCartogram(System.Int32)">
+            <summary>
+            Изменяет все координаты в зависмости от поворота пользоватея. Тоесть из initialCanvasCord и initialHex, перещитывается в просто CanvasCord и Hex
+            </summary>
+            <param name="rezhim">1  - 90 по часовой, 2 - 90 градусов пртив</param>
+        </member>
+        <member name="M:Моя_картограмма.Cartogram.DrawGrid(System.Int32)">
+            <summary>
+            Прорисовка осей. Goal - нужен чтобы выделять цели на координатной сетке
+            </summary>
+            <param name="goal">Индекс ТВС Куда будет загружена следующая</param>
+        </member>
+        <member name="M:Моя_картограмма.Cartogram.Show">
+            <summary>
+            Основная функция проприсовки картограммы. Должна запускаться один раз при запуске Программы раз так как CalcCord вносит и первоначальные данные в два места
+            </summary>
+            <param name="g"></param>
+            <param name="mypic"></param>
+            <param name="myPen"></param>
+        </member>
+        <member name="M:Моя_картограмма.Cartogram.DrawAllAxis">
+            <summary>
+            Рисует технологические оси (пожелания БОрдея)
+            </summary>
+        </member>
+        <member name="M:Моя_картограмма.Cartogram.RePaintAll(System.Boolean)">
+            <summary>
+            предлагаю все закрасить и нарисовать заново
+            Например когда включить выключить первые 60 
+            </summary>
+        </member>
+        <member name="M:Моя_картограмма.Cartogram.SetTVSColor(System.Int32,System.Boolean)">
+            <summary>
+            Закрашивает выбранную ТВС определенным цветом
+            </summary>
+            <param name="brush">кисточка со цветом</param>
+            <param name="tvsnumber">номер твс</param>
+            <param name="first60">обновить надписи, первые 60 или нет</param>
+        </member>
+        <member name="M:Моя_картограмма.Cartogram.SetTVSSolidColor(System.Drawing.Color,System.Int32,System.Boolean)">
+            <summary>
+            Закрашивает выбранную ТВС определенным цветом
+            </summary>
+            <param name="brush">кисточка со цветом</param>
+            <param name="tvsnumber">номер твс</param>
+            <param name="first60">обновить надписи, первые 60 или нет</param>
+        </member>
+        <member name="M:Моя_картограмма.Cartogram.SetTVSSolidColorBy360Number(System.Drawing.Brush,System.Int32,System.Boolean)">
+            <summary>
+            Закрашивает выбранную ТВС определенным цветом по номеру от 1 до 163
+            </summary>
+            <param name="brush">кисточка со цветом</param>
+            <param name="tvsnumber">номер твс</param>
+            <param name="first60">обновить надписи, первые 60 или нет</param>
+        </member>
+        <member name="M:Моя_картограмма.Cartogram.updateLoadNumberByTVSNumber(System.Int32)">
+            <summary>
+            Обновляет надпись у одной твс по ее номеру
+            </summary>
+            <param name="tvsnumber"></param>
+        </member>
+        <member name="M:Моя_картограмма.Cartogram.UpdateTVSNumber">
+            <summary>
+            Рисует текст внутри ТВС. В данном случае номер ТВС
+            </summary>
+        </member>
+        <member name="M:Моя_картограмма.Cartogram.UpdateLoadNumber(System.Boolean)">
+            <summary>
+            Рисует текст внутри ТВС. В данном случае порядковый номер загрузки
+            </summary>
+            <param name="first60"></param>
+        </member>
+        <member name="M:Моя_картограмма.Cartogram.CalcCord(System.Int32)">
+            <summary>
+            Для расчета 6 координат
+            </summary>
+            <param name="SideLength">Длина одной стороны</param>
+        </member>
+        <member name="M:Моя_картограмма.Cartogram.getTVSByPointXY(System.Drawing.Point)">
+            <summary>
+            Возвращает ТВС по Point координате X-Y
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Моя_картограмма.Cartogram.getTVSByTVS360Number(System.Int32)">
+            <summary>
+            Процедура возвращает ТВС по ее номеру в 360 градусной симметрии
+            </summary>
+            <param name="TVSNumber">Введите номер ТВС от 1 до 163</param>
+            <returns></returns>
+        </member>
+        <member name="M:Моя_картограмма.Cartogram.#ctor(System.Drawing.Graphics,System.Windows.Forms.PictureBox,System.Drawing.Pen)">
+            <summary>
+            Конструктор
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.Form1.NextTvs">
+             <summary>
+            порядковый номер загрузки 
+             </summary>
+        </member>
+        <member name="F:Моя_картограмма.Form1.totalInZOne">
+            <summary>
+            Сколько всего загружено в данный момент в зоне
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.Form1.totalInDuty">
+            <summary>
+            Сколько загружено ТВС в смену
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.Form1.lastTVS">
+            <summary>
+            Индекс предпоследней загруженной ТВС, для рассчета текущей скорости 
+            </summary>
+        </member>
+        <member name="M:Моя_картограмма.Form1.Form1_Load(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Моя_картограмма.Form1.updateFieldsIfYes">
+            <summary>
+            Нужно вызывать если ТВС загружена успешно
+            </summary>
+        </member>
+        <member name="M:Моя_картограмма.Form1.button1_Click_2(System.Object,System.EventArgs)">
+            <summary>
+            по нажатию на кнопку ЗАВЕРШИТЬ
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Моя_картограмма.Form1.сохранитьСостояниеToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            Кнопка по которой происходит добавление валидации на форму
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:Моя_картограмма.Form1.components">
+            <summary>
+            Требуется переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:Моя_картограмма.Form1.Dispose(System.Boolean)">
+            <summary>
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:Моя_картограмма.Form1.InitializeComponent">
+            <summary>
+            Обязательный метод для поддержки конструктора - не изменяйте
+            содержимое данного метода при помощи редактора кода.
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.MyConst.SKP1Brush">
+            <summary>
+            Цвета СКП каналов последовательно от 1 до 6
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.MyConst.DIsize">
+            <summary>
+            Размер датчика ДИ
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.MyConst.SKPsize">
+            <summary>
+            размер кружочка под СКП
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.MyConst.AFPsize">
+            <summary>
+            Размер датчиков АФП
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.MyConst.CartogramSize">
+            <summary>
+            чем больше это число, тем меньше сама картограмма получиться
+            </summary>
+        </member>
+        <member name="F:Моя_картограмма.MyConst.MyBackground">
+            <summary>
+            Цвет фона всего пространства
+            </summary>
+        </member>
+        <member name="M:Моя_картограмма.MyConst.InputBoxTime(System.String,System.String,System.DateTime@)">
+            <summary>
+            Это окно отображается когда необходимо ввести время при удачно загруженной ТВС
+            </summary>
+            <param name="title">Заголовок Окна</param>
+            <param name="promptText">Текст внутри</param>
+            <param name="value">Значение </param>
+            <returns></returns>
+        </member>
+        <member name="M:Моя_картограмма.MyConst.InputBox(System.String,System.String,System.String@)">
+            <summary>
+            Это окно отображается когда необходимо ввести повысотную отметку при удачно загруженной ТВС
+            </summary>
+            <param name="title">Заголовок Окна</param>
+            <param name="promptText">Текст внутри</param>
+            <param name="value">Значение </param>
+            <returns></returns>
+        </member>
+        <member name="M:Моя_картограмма.MyConst.InputBoxZam(System.String,System.String,System.String@)">
+            <summary>
+            Это окно отображается когда ТВС загружена но есть замечания, которые нужно ввести или вввести обозначения смены
+            </summary>
+            <param name="title">заголовк окна</param>
+            <param name="promptText">текст</param>
+            <param name="value">текст замечвания</param>
+            <returns></returns>
+        </member>
+        <member name="F:Моя_картограмма.MyConst.setka">
+            <summary>
+            ЭТОТ МАССИВ ИСПОЛЬЗУЕТСЯ ТОЛЬКО ДЛЯ РИСОВАНИЯ КООРДИНАТНОЙ СЕТКИ ПО ГРАНИЧНЫМ ТВСкам
+            </summary>
+        </member>
+        <member name="M:Моя_картограмма.Program.Main">
+            <summary>
+            Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="T:Моя_картограмма.Properties.Resources">
+            <summary>
+              Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+            </summary>
+        </member>
+        <member name="P:Моя_картограмма.Properties.Resources.ResourceManager">
+            <summary>
+              Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+            </summary>
+        </member>
+        <member name="P:Моя_картограмма.Properties.Resources.Culture">
+            <summary>
+              Перезаписывает свойство CurrentUICulture текущего потока для всех
+              обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+            </summary>
+        </member>
+        <member name="P:Моя_картограмма.Properties.Resources.ate">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Моя_картограмма.Properties.Resources.ate1">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Моя_картограмма.Properties.Resources.back">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Моя_картограмма.Properties.Resources.back1">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Моя_картограмма.Properties.Resources.back2">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Моя_картограмма.Properties.Resources.back3">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Моя_картограмма.Properties.Resources.logo2">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Моя_картограмма.Properties.Resources.rotate">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Моя_картограмма.Properties.Resources.rotate1">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Моя_картограмма.Properties.Resources.rotate11">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Моя_картограмма.Properties.Resources.stock_vector_arrow_reload_rotate_refresh_repeat_sign_on_rounded_square_glossy_icon_web_internet_button_with_143038792">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>
