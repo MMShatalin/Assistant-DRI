@@ -484,12 +484,12 @@ namespace Моя_картограмма
             if ((totalInZOne < 163) && (NextTvs < 163))
             {
                 const string ask = "ТВС загружена без замечаний ?";
-                const string ask1 = "Имитатор загружен без замечаний ?";
+               // const string ask1 = "Имитатор загружен без замечаний ?";
                 string message = ask;
-                if ((totalInZOne <= 108) && (NextTvs <= 108))
-                {
-                    message = ask1;
-                }
+                //if ((totalInZOne <= 108) && (NextTvs <= 108))
+                //{
+                //    message = ask1;
+                //}
                 const string caption = "Подтверждение";
                 var result = MessageBox.Show(message, caption,
                                              MessageBoxButtons.YesNo,
@@ -502,22 +502,22 @@ namespace Моя_картограмма
                     updateFieldsIfYes();
 
                     //  ZamechaniyList.Add("Без замечаний");                
-                    if (NextTvs > 108)
-                    {
-                        //MyCartogram.SetTVSColor(NextTvs, true);
-                        MyCartogram.SetTVSSolidColor(Color.LightGreen, NextTvs, false);
-                        MyCartogram.Zona[NextTvs].Color = Color.LightGreen;
-                    }
+                    //if (NextTvs > 108)
+                    //{
+                    //    //MyCartogram.SetTVSColor(NextTvs, true);
+                    //    MyCartogram.SetTVSSolidColor(Color.LightGreen, NextTvs, false);
+                    //    MyCartogram.Zona[NextTvs].Color = Color.LightGreen;
+                    //}
                     ///Конкретно закрашиваем сейчас
                     MyCartogram.SetTVSSolidColor(Color.LightGreen, NextTvs, false);
                     MyCartogram.Zona[NextTvs].Color = Color.LightGreen;
 
 
-                    if (NextTvs <= 108)
-                    {
-                        MyCartogram.SetTVSSolidColor(Color.DarkGray, NextTvs, false);
-                        MyCartogram.Zona[NextTvs].Color = Color.DarkGray;
-                    }
+                    //if (NextTvs <= 108)
+                    //{
+                    //    MyCartogram.SetTVSSolidColor(Color.DarkGray, NextTvs, false);
+                    //    MyCartogram.Zona[NextTvs].Color = Color.DarkGray;
+                    //}
 
 
                     ///запоминаем для будущего если например восстанавливать после сбоя
@@ -542,10 +542,10 @@ namespace Моя_картограмма
 
                     string message1 = ask2;
 
-                    if (NextTvs <= 109)
-                    {
-                        message1 = ask3;
-                    }
+                    //if (NextTvs <= 109)
+                    //{
+                    //    message1 = ask3;
+                    //}
 
                     var isload = MessageBox.Show(message1, caption,
                                        MessageBoxButtons.YesNo,
@@ -574,20 +574,20 @@ namespace Моя_картограмма
                         }
                         updateFieldsIfYes();
 
-                        if (NextTvs > 109)
-                        {
-                            MyCartogram.SetTVSSolidColor(Color.Brown, NextTvs, false);
-                            MyCartogram.Zona[NextTvs].Color = Color.Brown;
-                        }
+                        //if (NextTvs > 109)
+                        //{
+                        //    MyCartogram.SetTVSSolidColor(Color.Brown, NextTvs, false);
+                        //    MyCartogram.Zona[NextTvs].Color = Color.Brown;
+                        //}
                         MyCartogram.SetTVSSolidColor(Color.Brown, NextTvs, false);
                         MyCartogram.Zona[NextTvs].Color = Color.Brown;
                         // updateFieldsIfYes();
 
-                        if (NextTvs <= 109)
-                        {
-                            MyCartogram.SetTVSSolidColor(Color.Gray, NextTvs, false);
-                            MyCartogram.Zona[NextTvs].Color = Color.Gray;
-                        }
+                        //if (NextTvs <= 109)
+                        //{
+                        //    MyCartogram.SetTVSSolidColor(Color.Gray, NextTvs, false);
+                        //    MyCartogram.Zona[NextTvs].Color = Color.Gray;
+                        //}
 
 
 
@@ -624,20 +624,20 @@ namespace Моя_картограмма
                         ///
 
 
-                        if (NextTvs > 109)
-                        {
-                            MyCartogram.SetTVSSolidColor(Color.Red, NextTvs, false);
-                            MyCartogram.Zona[NextTvs].Color = Color.Red;
-                        }
+                        //if (NextTvs > 109)
+                        //{
+                        //    MyCartogram.SetTVSSolidColor(Color.Red, NextTvs, false);
+                        //    MyCartogram.Zona[NextTvs].Color = Color.Red;
+                        //}
                         MyCartogram.SetTVSSolidColor(Color.Red, NextTvs, false);
                         //MyCartogram.SetTVSSolidColor(Color.Red, NextTvs, false);
                         MyCartogram.Zona[NextTvs].Color = Color.Red;
 
-                        if (NextTvs <= 109)
-                        {
-                            MyCartogram.SetTVSSolidColor(Color.LightGray, NextTvs, false);
-                            MyCartogram.Zona[NextTvs].Color = Color.LightGray;
-                        }
+                        //if (NextTvs <= 109)
+                        //{
+                        //    MyCartogram.SetTVSSolidColor(Color.LightGray, NextTvs, false);
+                        //    MyCartogram.Zona[NextTvs].Color = Color.LightGray;
+                        //}
 
                         MyCartogram.UpdateLoadNumber(checkBox1.Checked);
                         MyCartogram.Zona[NextTvs].IsLoaded = false;
