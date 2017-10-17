@@ -37,9 +37,13 @@ namespace Моя_картограмма
                 case 0:
                     this._cord = new Point((int)(0.04 * PicWidth), (int)(PicWidth * 0.15));
                     break;
+
                 case 1:
-                    this._cord = new Point((int)(PicWidth - PicWidth * 0.2), 0);
+                    this._cord = new Point((int)(PicWidth - PicWidth * 0.2), (int)(PicWidth * 0.9));
                     break;
+
+
+
                 case 2:
                     this._cord = new Point((int)(PicWidth * 0.9), (int)(PicWidth * 0.8));
                     break;

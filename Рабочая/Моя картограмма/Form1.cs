@@ -149,16 +149,17 @@ namespace Моя_картограмма
 
 
 
-            button1.BackColor = Color.CadetBlue;
+            button1.BackColor = Color.DarkBlue;
            
             myBitmap = new Bitmap(this.pictureBox1.Width, this.pictureBox1.Height);
             pictureBox1.Image = myBitmap;
             g = Graphics.FromImage(myBitmap);
 
-            myPen = new System.Drawing.Pen(Color.ForestGreen);
+            myPen = new System.Drawing.Pen(Color.Blue);
+
             myPen.Width = 2;
             MyCartogram = new Cartogram(g, pictureBox1, myPen);      
-            g.FillRectangle(Brushes.DimGray, 0,0,this.pictureBox1.Width, this.pictureBox1.Width);
+            g.FillRectangle(Brushes.WhiteSmoke, 0,0,this.pictureBox1.Width, this.pictureBox1.Width);
 
             //LinearGradientBrush lgbfon = new LinearGradientBrush(
             //                    new Point(0, 0),
@@ -1122,7 +1123,7 @@ namespace Моя_картограмма
 
             fStream.Close();
 
-            this.g.Clear(Color.DimGray);
+            this.g.Clear(Color.WhiteSmoke);
 
             NextTvs = this.MyCartogram.MynextTVS;
             this.MyCartogram.InitComponentsAfterDeserialize(this.g, this.pictureBox1,this.myPen);

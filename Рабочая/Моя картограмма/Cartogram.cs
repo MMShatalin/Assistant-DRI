@@ -228,7 +228,7 @@ namespace Моя_картограмма
 
             if ((this._fuelRect.Width != 0) && (this._fuelRect.Height != 0)) ///иначе LinearGradientBrush ругается и прога пожет повиснуть если юзер будет ресайзить форму
             {
-                LinearGradientBrush lgb = new LinearGradientBrush(this._fuelRect, Color.Blue, Color.LightBlue, (float)0);
+                LinearGradientBrush lgb = new LinearGradientBrush(this._fuelRect, Color.DarkBlue, Color.LightBlue, (float)0);
                 g.FillRectangle(lgb, this.FuelRect);
             }
         }
@@ -387,8 +387,8 @@ namespace Моя_картограмма
             linGrBrush = new LinearGradientBrush(
     new Point(0, 0),
     new Point(this.pic.Width - 100, this.pic.Height),
-    Color.LightGreen,   // Opaque red
-    Color.DarkGreen);  // Opaque blue
+    Color.LightBlue,   // Opaque red
+    Color.DarkBlue);  // Opaque blue
 
 
         }
@@ -524,7 +524,7 @@ namespace Моя_картограмма
             }
 
             int val = new int();
-            Pen myDefaultPen = new Pen(Brushes.White);
+            Pen myDefaultPen = new Pen(Brushes.Black);
             myDefaultPen.DashStyle = DashStyle.Dot;
             myDefaultPen.Width = 1;
 
@@ -585,10 +585,10 @@ namespace Моя_картограмма
                         g.DrawLine(myDefaultPen, 40, temp.CanvasCord.Y, temp.CanvasCord.X - this.FA, temp.CanvasCord.Y);
                         if (val < 10)
                         {
-                            g.DrawString("0" + val.ToString(), myDefaultFont, Brushes.WhiteSmoke, 0, temp.CanvasCord.Y - 14);
+                            g.DrawString("0" + val.ToString(), myDefaultFont, Brushes.Black, 0, temp.CanvasCord.Y - 14);
                         }
                         else
-                            g.DrawString(val.ToString(), myDefaultFont, Brushes.WhiteSmoke, 0, temp.CanvasCord.Y - 14);
+                            g.DrawString(val.ToString(), myDefaultFont, Brushes.Black, 0, temp.CanvasCord.Y - 14);
                     }
                 }
             }
@@ -644,10 +644,10 @@ namespace Моя_картограмма
                         g.DrawLine(myDefaultPen, temp.CanvasCord.X + this.FA, temp.CanvasCord.Y, this.pic.Width - 40, temp.CanvasCord.Y);
                         if (val < 10)
                         {
-                            g.DrawString("0" + val.ToString(), myDefaultFont, Brushes.WhiteSmoke, this.pic.Width - 40, temp.CanvasCord.Y - 14);
+                            g.DrawString("0" + val.ToString(), myDefaultFont, Brushes.Black, this.pic.Width - 40, temp.CanvasCord.Y - 14);
                         }
                         else
-                            g.DrawString(val.ToString(), myDefaultFont, Brushes.WhiteSmoke, this.pic.Width - 40, temp.CanvasCord.Y - 14);
+                            g.DrawString(val.ToString(), myDefaultFont, Brushes.Black, this.pic.Width - 40, temp.CanvasCord.Y - 14);
                     }
                 }
             }
@@ -709,10 +709,10 @@ namespace Моя_картограмма
                         g.DrawLine(myDefaultPen, temp.CanvasCord.X, temp.CanvasCord.Y - this.FA, temp.CanvasCord.X, 40);
                         if (val < 10)
                         {
-                            g.DrawString("0" + val.ToString(), myDefaultFont, Brushes.WhiteSmoke, temp.CanvasCord.X - 15, 0);
+                            g.DrawString("0" + val.ToString(), myDefaultFont, Brushes.Black, temp.CanvasCord.X - 15, 0);
                         }
                         else
-                            g.DrawString(val.ToString(), myDefaultFont, Brushes.WhiteSmoke, temp.CanvasCord.X - 15, 0);
+                            g.DrawString(val.ToString(), myDefaultFont, Brushes.Black, temp.CanvasCord.X - 15, 0);
                     }
                 }
 
@@ -776,10 +776,10 @@ namespace Моя_картограмма
 
                         if (val < 10)
                         {
-                            g.DrawString("0" + val.ToString(), myDefaultFont, Brushes.WhiteSmoke, temp.CanvasCord.X-15, this.pic.Width - 40);
+                            g.DrawString("0" + val.ToString(), myDefaultFont, Brushes.Black, temp.CanvasCord.X-15, this.pic.Width - 40);
                         }
                         else
-                            g.DrawString(val.ToString(), myDefaultFont, Brushes.WhiteSmoke, temp.CanvasCord.X-15, this.pic.Width - 40);
+                            g.DrawString(val.ToString(), myDefaultFont, Brushes.Black, temp.CanvasCord.X-15, this.pic.Width - 40);
                     }
                 }
             
@@ -1175,8 +1175,8 @@ namespace Моя_картограмма
             linGrBrush = new LinearGradientBrush(
 new Point(0, 0),
 new Point(this.pic.Width - 100, this.pic.Height),
-Color.LightGreen,   // Opaque red
-Color.DarkGreen);  // Opaque blue
+Color.LightBlue,   // Opaque red
+Color.DarkBlue);  // Opaque blue
 
 
 

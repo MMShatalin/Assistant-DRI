@@ -533,5 +533,10 @@
               Поиск локализованного ресурса типа System.Drawing.Bitmap.
             </summary>
         </member>
+        <member name="P:Моя_картограмма.Properties.Resources.Безымянный">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
     </members>
 </doc>

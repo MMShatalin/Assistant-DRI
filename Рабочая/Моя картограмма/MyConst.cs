@@ -63,8 +63,8 @@ namespace Моя_картограмма
         /// <summary>
         /// Цвет фона всего пространства
         /// </summary>
-        public static Color MyBackground = Color.DimGray;
-        public static Brush MyBackgroundBrush = Brushes.DimGray;
+        public static Color MyBackground = Color.WhiteSmoke;
+        public static Brush MyBackgroundBrush = Brushes.WhiteSmoke;
 
         //        Cart:CartogramVector =
 
