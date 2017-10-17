@@ -324,10 +324,11 @@
             чем больше это число, тем меньше сама картограмма получиться
             </summary>
         </member>
-        <member name="F:Моя_картограмма.MyConst.MyBackground">
+        <member name="F:Моя_картограмма.MyConst.allFon">
             <summary>
             Цвет фона всего пространства
             </summary>
+            
         </member>
         <member name="M:Моя_картограмма.MyConst.InputBoxTime(System.String,System.String,System.DateTime@)">
             <summary>

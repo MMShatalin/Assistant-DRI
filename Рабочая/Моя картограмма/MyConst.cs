@@ -63,8 +63,11 @@ namespace Моя_картограмма
         /// <summary>
         /// Цвет фона всего пространства
         /// </summary>
-        public static Color MyBackground = Color.WhiteSmoke;
-        public static Brush MyBackgroundBrush = Brushes.WhiteSmoke;
+        /// 
+        public static Color allFon = Color.White;
+
+        public static Color MyBackground = allFon;
+        public static Brush MyBackgroundBrush = Brushes.White;
 
         //        Cart:CartogramVector =
 
