@@ -151,6 +151,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="buddy-signon.ico" />
+    <None Include="Resources\atom_150x150.gif" />
     <None Include="Безымянный.png" />
     <None Include="Resources\atonW2.gif" />
     <None Include="Resources\atonW2_100_100.gif" />

@@ -163,6 +163,16 @@ namespace Моя_картограмма.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap atom_150x150 {
+            get {
+                object obj = ResourceManager.GetObject("atom_150x150", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap atonTR {
             get {
                 object obj = ResourceManager.GetObject("atonTR", resourceCulture);
