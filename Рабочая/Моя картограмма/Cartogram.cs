@@ -1071,7 +1071,7 @@ namespace Моя_картограмма
                 else
                 {
 
-                    if (item.LoadNumber < 110)
+                   if (item.LoadNumber < 61)
                     {
                         this.g.DrawString(item.LoadNumber.ToString(), myF, MyConst.FontColorInTVS, item.CanvasCord.X - (int)(0.4 * this.FA), item.CanvasCord.Y - this.FA / 3);
                     }

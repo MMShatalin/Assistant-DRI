@@ -225,6 +225,7 @@ namespace Моя_картограмма
             //MyCartogram.UpdateLoadNumber(checkBox1.Checked);
 
             MyCartogram.CalcCord(pictureBox1.Width);
+
             MyCartogram.RePaintAll(checkBox1.Checked, checkBox2.Checked, checkBox3.Checked);
 
 
@@ -291,10 +292,12 @@ namespace Моя_картограмма
             //}
             //comboBox1.SelectedIndex = 0;
 
-            // RotateRight();
+            RotateRight();
             /// RotateLeft();
 
             timer1.Enabled = true;
+
+
 
 
             if (File.Exists("currstateCartogram.bin"))
@@ -374,6 +377,8 @@ namespace Моя_картограмма
 
 
             } //Существует файл с предысторией работы
+
+            
         }
 
 
