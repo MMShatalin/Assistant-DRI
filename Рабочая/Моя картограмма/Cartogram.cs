@@ -91,17 +91,6 @@ namespace Моя_картограмма
         /// Порядковый номер загрузки от 1 до 163
         /// </summary>
         private int _loadNumber;
-
-
-     //   private int _totalinZoneNew;
-        //public int TotalinZoneNew
-        //{
-        //    get { return _totalinZoneNew;  }
-        //    set { this._totalinZoneNew = value; }
-        //}
-
-       
-       
         public int CompareTo(object obj)
         {
             if (obj == null) return 1;
@@ -112,12 +101,6 @@ namespace Моя_картограмма
                 throw new ArgumentException("Object is not a Temperature");
         }
 
-        //public static int _totalinZone;
-        //public static int SaveTotalInZone(int totalinzone)
-        //{
-        //    _totalinZone = totalinzone;
-        //    return _totalinZone;
-        //}
         /// <summary>
         /// порпядковый номер загрузки в зону
         /// </summary>
@@ -349,7 +332,7 @@ namespace Моя_картограмма
             set { mynextTVS = value; }
         }
 
-        
+
         FuelBath fuelBath;
         DriTable driTable;
         IonChambers ionChambers;
@@ -363,21 +346,12 @@ namespace Моя_картограмма
          [NonSerialized]
          Pen myPen;
 
-         //public static int _totalinZoneNew;
-         //public static int SaveTotalInZone(int rr)
-         //{
-         //    List<int> n = new List<int>();
-         //    n.Add(rr);
-         //    return n[n.Count - 1];
-         //}
+
         /// <summary>
         /// эта как раз и есть градиентная кисточка для закраски
         /// </summary>
          [NonSerialized]
          LinearGradientBrush linGrBrush;
-
-         [NonSerialized]
-         LinearGradientBrush linGrBrush1;
 
          [NonSerialized]
          Pen MyGoalPen;
@@ -411,38 +385,15 @@ namespace Моя_картограмма
             //linGrBrush = new LinearGradientBrush(new Point(0, 0), new Point(this.pic.Width - 100, this.pic.Height), Color.Gold, Color.Brown);
 
             linGrBrush = new LinearGradientBrush(
-   new Point(0, 0),
-   new Point(this.pic.Width - 100, this.pic.Height),
-   Color.LightGreen,   // Opaque red
-   Color.LightGreen);
+    new Point(0, 0),
+    new Point(this.pic.Width - 100, this.pic.Height),
+    Color.LightGreen,   // Opaque red
+    Color.DarkGreen);  // Opaque blue
 
- //           linGrBrush1 = new LinearGradientBrush(
- //new Point(0, 0),
- //new Point(this.pic.Width - 100, this.pic.Height),
- //Color.LightGray,   // Opaque red
- //Color.DarkGray); 
+
         }
 
- //       public void MySecret(int totalzone)
- //       {
 
- //           if (totalzone > 107)
- //           {
- //               linGrBrush = new LinearGradientBrush(
- //     new Point(0, 0),
- //     new Point(this.pic.Width - 100, this.pic.Height),
- //     Color.LightGreen,   // Opaque red
- //     Color.DarkGreen);
- //           }
- //           if(totalzone<=107)
- //           {
- //               linGrBrush = new LinearGradientBrush(
- //new Point(0, 0),
- //new Point(this.pic.Width - 100, this.pic.Height),
- //Color.LightGray,   // Opaque red
- //Color.DarkGray);
- //           }
- //       }
 
 
         int ScreanAngle;
@@ -923,8 +874,7 @@ namespace Моя_картограмма
                 {
                     if (!this.Zona[i].Redmark)
                     {
-                        //this.SetTVSColor(i, false);
-                     this.SetTVSSolidColor(this.Zona[i].Color, i, false);
+                        this.SetTVSColor(i, false);
                     }
                     else
                     {
@@ -961,13 +911,9 @@ namespace Моя_картограмма
         /// <param name="first60">обновить надписи, первые 60 или нет</param>
         public void SetTVSColor(int tvsnumber, bool refresh)
         {
-             this.g.FillPolygon(this.linGrBrush, this.Zona[tvsnumber].Hex);
-            
 
-            //if (tvsnumber > 107)
-            //{
-            //    this.g.FillPolygon(this.linGrBrush, this.Zona[tvsnumber].Hex);
-            //}
+            this.g.FillPolygon(this.linGrBrush, this.Zona[tvsnumber].Hex);
+
             g.DrawPolygon(this.myPen, this.Zona[tvsnumber].Hex);
             // this.Show();
             //   this.UpdateLoadNumber(first60);
@@ -1071,7 +1017,7 @@ namespace Моя_картограмма
                 else
                 {
 
-                   if (item.LoadNumber < 61)
+                    if (item.LoadNumber < 62)
                     {
                         this.g.DrawString(item.LoadNumber.ToString(), myF, MyConst.FontColorInTVS, item.CanvasCord.X - (int)(0.4 * this.FA), item.CanvasCord.Y - this.FA / 3);
                     }
@@ -1230,7 +1176,7 @@ namespace Моя_картограмма
 new Point(0, 0),
 new Point(this.pic.Width - 100, this.pic.Height),
 Color.LightGreen,   // Opaque red
-Color.LightGreen);  // Opaque blue
+Color.DarkGreen);  // Opaque blue
 
 
 

@@ -66,16 +66,15 @@ C:\Users\Михаил\Desktop\1 _ Картограмма для загрузки
 C:\Users\Михаил\Desktop\1 _ Картограмма для загрузки\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.Form1.resources
 C:\Users\Михаил\Desktop\1 _ Картограмма для загрузки\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.Properties.Resources.resources
 C:\Users\Михаил\Desktop\1 _ Картограмма для загрузки\Рабочая\Моя картограмма\obj\Release\Моя картограмма.csproj.GenerateResource.Cache
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\bin\Release\Моя картограмма.exe.config
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Release\Моя картограмма.csproj.ResolveComReference.cache
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Release\Моя картограмма.exe
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Release\Моя картограмма.pdb
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\bin\Release\Моя картограмма.exe
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\bin\Release\Моя картограмма.pdb
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Release\Моя картограмма.csprojResolveAssemblyReference.cache
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.About.resources
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.DataGrInfo.resources
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.Form1.resources
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.Properties.Resources.resources
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.Загруженность_зоны.resources
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Release\Моя картограмма.csproj.GenerateResource.Cache
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\bin\Release\Моя картограмма.exe.config
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Release\Моя картограмма.csproj.ResolveComReference.cache
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Release\Моя картограмма.exe
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Release\Моя картограмма.pdb
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\bin\Release\Моя картограмма.exe
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\bin\Release\Моя картограмма.pdb
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Release\Моя картограмма.csprojResolveAssemblyReference.cache
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.About.resources
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.DataGrInfo.resources
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.Form1.resources
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.Properties.Resources.resources
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Release\Моя картограмма.csproj.GenerateResource.Cache

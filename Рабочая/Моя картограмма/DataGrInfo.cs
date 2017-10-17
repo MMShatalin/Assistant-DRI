@@ -22,65 +22,31 @@ namespace Моя_картограмма
         {
         
         }
-      //  public static int MyRealTotalZone;
-       // int MyRealTotalZone = dataGridView1.RowCount - 1;
-      //  public static int y=0;
- //  public static int totalinZonenew;
+
+
         private void DataGrInfo_Load(object sender, EventArgs e)
         {
-   
- 
-                for (int i = 0; i < dataGridView1.RowCount - 1; i++)
+            for (int i = 0; i < dataGridView1.RowCount - 1; i++)
+            {
+
+                if ((string)dataGridView1.Rows[i].Cells[6].Value == "False")
+                    dataGridView1.Rows[i].DefaultCellStyle.BackColor = Color.LightGreen;
+
+                else if ((string)dataGridView1.Rows[i].Cells[7].Value == "False") dataGridView1.Rows[i].DefaultCellStyle.BackColor = Color.Red;
+
+                else dataGridView1.Rows[i].DefaultCellStyle.BackColor = Color.DarkRed;
+
+            }
+            for (int i = 0; i < dataGridView1.RowCount - 1; i++)
+            {
+
+                if ((string)dataGridView1.Rows[i].Cells[6].Value == "False" && (string)dataGridView1.Rows[i].Cells[7].Value == "False")
                 {
-                 
-                    if ((string)dataGridView1.Rows[i].Cells[6].Value == "False")
-                        dataGridView1.Rows[i].DefaultCellStyle.BackColor = Color.DarkGray;
-
-                    else if ((string)dataGridView1.Rows[i].Cells[7].Value == "False") dataGridView1.Rows[i].DefaultCellStyle.BackColor = Color.LightGray;
-
-                    else dataGridView1.Rows[i].DefaultCellStyle.BackColor = Color.Gray;
-
-                    if (i > 108)
-                    {
-                        if ((string)dataGridView1.Rows[i].Cells[6].Value == "False")
-                        {
-                            dataGridView1.Rows[i].DefaultCellStyle.BackColor = Color.LightGreen;
-                       //     totalinZonenew++;
-                        }
-
-                        else if ((string)dataGridView1.Rows[i].Cells[7].Value == "False") dataGridView1.Rows[i].DefaultCellStyle.BackColor = Color.Red;
-
-                        else
-                        {
-                            dataGridView1.Rows[i].DefaultCellStyle.BackColor = Color.DarkRed;
-                         //   totalinZonenew++;
-                        }
-                    }
-
+                    dataGridView1.Rows[i].DefaultCellStyle.BackColor = Color.White;
+                    // dataGridView1.Rows[i].Visible = false ;
                 }
-                for (int i = 0; i < dataGridView1.RowCount - 1; i++)
-                {
-
-                    if ((string)dataGridView1.Rows[i].Cells[6].Value == "False" && (string)dataGridView1.Rows[i].Cells[7].Value == "False")
-                    {
-                        dataGridView1.Rows[i].DefaultCellStyle.BackColor = Color.White;
-                        // dataGridView1.Rows[i].Visible = false ;
-                    }
-                }
-           
-              
-              //  MyRealTotalinZone(totalinZonenew);
-
-               
-            
-              
+            }
         }
-
-        //public static int MyRealTotalinZone(int r)
-        //{
-        //    y = r;
-        //    return y;
-        //}
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -122,11 +88,6 @@ namespace Моя_картограмма
                 workbook.SaveAs(saveFileDialog1.FileName);
                 excelapp.Quit();
             }
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

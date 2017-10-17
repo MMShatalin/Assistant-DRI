@@ -43,7 +43,6 @@
             this.дозагрузитьToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.сохранитьСостояниеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.загрузитьПоследнееСостояниеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.изменитьИнформациюПоЗагрузкеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.справкаToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.помощьToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.оПрограммеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -78,8 +77,6 @@
             this.checkBox3 = new System.Windows.Forms.CheckBox();
             this.checkBox4 = new System.Windows.Forms.CheckBox();
             this.button4 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
             this.colorDialog1 = new System.Windows.Forms.ColorDialog();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
@@ -145,8 +142,7 @@
             this.повернутьToolStripMenuItem1,
             this.дозагрузитьToolStripMenuItem,
             this.сохранитьСостояниеToolStripMenuItem,
-            this.загрузитьПоследнееСостояниеToolStripMenuItem,
-            this.изменитьИнформациюПоЗагрузкеToolStripMenuItem});
+            this.загрузитьПоследнееСостояниеToolStripMenuItem});
             this.действияToolStripMenuItem.Name = "действияToolStripMenuItem";
             this.действияToolStripMenuItem.Size = new System.Drawing.Size(70, 20);
             this.действияToolStripMenuItem.Text = "Действия";
@@ -154,7 +150,7 @@
             // копироватьРисВБуферToolStripMenuItem
             // 
             this.копироватьРисВБуферToolStripMenuItem.Name = "копироватьРисВБуферToolStripMenuItem";
-            this.копироватьРисВБуферToolStripMenuItem.Size = new System.Drawing.Size(314, 22);
+            this.копироватьРисВБуферToolStripMenuItem.Size = new System.Drawing.Size(249, 22);
             this.копироватьРисВБуферToolStripMenuItem.Text = "Копировать рис. в буфер";
             this.копироватьРисВБуферToolStripMenuItem.Click += new System.EventHandler(this.копироватьРисВБуферToolStripMenuItem_Click);
             // 
@@ -164,7 +160,7 @@
             this.грПоЧасовойToolStripMenuItem,
             this.грПротивЧасойToolStripMenuItem});
             this.повернутьToolStripMenuItem1.Name = "повернутьToolStripMenuItem1";
-            this.повернутьToolStripMenuItem1.Size = new System.Drawing.Size(314, 22);
+            this.повернутьToolStripMenuItem1.Size = new System.Drawing.Size(249, 22);
             this.повернутьToolStripMenuItem1.Text = "Повернуть";
             // 
             // грПоЧасовойToolStripMenuItem
@@ -184,31 +180,23 @@
             // дозагрузитьToolStripMenuItem
             // 
             this.дозагрузитьToolStripMenuItem.Name = "дозагрузитьToolStripMenuItem";
-            this.дозагрузитьToolStripMenuItem.Size = new System.Drawing.Size(314, 22);
+            this.дозагрузитьToolStripMenuItem.Size = new System.Drawing.Size(249, 22);
             this.дозагрузитьToolStripMenuItem.Text = "Дозагрузить ";
             this.дозагрузитьToolStripMenuItem.Click += new System.EventHandler(this.дозагрузитьToolStripMenuItem_Click);
             // 
             // сохранитьСостояниеToolStripMenuItem
             // 
             this.сохранитьСостояниеToolStripMenuItem.Name = "сохранитьСостояниеToolStripMenuItem";
-            this.сохранитьСостояниеToolStripMenuItem.Size = new System.Drawing.Size(314, 22);
+            this.сохранитьСостояниеToolStripMenuItem.Size = new System.Drawing.Size(249, 22);
             this.сохранитьСостояниеToolStripMenuItem.Text = "Сохранить состояние ";
             this.сохранитьСостояниеToolStripMenuItem.Click += new System.EventHandler(this.сохранитьСостояниеToolStripMenuItem_Click);
             // 
             // загрузитьПоследнееСостояниеToolStripMenuItem
             // 
             this.загрузитьПоследнееСостояниеToolStripMenuItem.Name = "загрузитьПоследнееСостояниеToolStripMenuItem";
-            this.загрузитьПоследнееСостояниеToolStripMenuItem.Size = new System.Drawing.Size(314, 22);
+            this.загрузитьПоследнееСостояниеToolStripMenuItem.Size = new System.Drawing.Size(249, 22);
             this.загрузитьПоследнееСостояниеToolStripMenuItem.Text = "Загрузить последнее состояние";
             this.загрузитьПоследнееСостояниеToolStripMenuItem.Click += new System.EventHandler(this.загрузитьПоследнееСостояниеToolStripMenuItem_Click);
-            // 
-            // изменитьИнформациюПоЗагрузкеToolStripMenuItem
-            // 
-            this.изменитьИнформациюПоЗагрузкеToolStripMenuItem.Name = "изменитьИнформациюПоЗагрузкеToolStripMenuItem";
-            this.изменитьИнформациюПоЗагрузкеToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Z)));
-            this.изменитьИнформациюПоЗагрузкеToolStripMenuItem.Size = new System.Drawing.Size(314, 22);
-            this.изменитьИнформациюПоЗагрузкеToolStripMenuItem.Text = "Изменить информацию по загрузке";
-            this.изменитьИнформациюПоЗагрузкеToolStripMenuItem.Click += new System.EventHandler(this.изменитьИнформациюПоЗагрузкеToolStripMenuItem_Click);
             // 
             // справкаToolStripMenuItem
             // 
@@ -363,7 +351,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(112, 43);
             this.label4.TabIndex = 8;
-            this.label4.Text = "Сколько за смену:";
+            this.label4.Text = "Сколько загружено за смену:";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // label5
@@ -471,7 +459,7 @@
             // 
             this.button1.BackColor = System.Drawing.SystemColors.Control;
             this.tableLayoutPanel2.SetColumnSpan(this.button1, 2);
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button1.Location = new System.Drawing.Point(3, 489);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(230, 34);
@@ -531,7 +519,6 @@
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(230, 37);
             this.listBox1.TabIndex = 4;
-            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
             // tableLayoutPanel3
             // 
@@ -548,8 +535,8 @@
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 1F));
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 19F));
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 1.344538F));
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 69.07563F));
+            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
+            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 60F));
             this.tableLayoutPanel3.Size = new System.Drawing.Size(134, 595);
             this.tableLayoutPanel3.TabIndex = 2;
             // 
@@ -588,21 +575,19 @@
             this.tableLayoutPanel4.Controls.Add(this.checkBox3, 0, 2);
             this.tableLayoutPanel4.Controls.Add(this.checkBox4, 0, 3);
             this.tableLayoutPanel4.Controls.Add(this.button4, 0, 4);
-            this.tableLayoutPanel4.Controls.Add(this.button7, 0, 8);
-            this.tableLayoutPanel4.Controls.Add(this.button8, 0, 7);
-            this.tableLayoutPanel4.Location = new System.Drawing.Point(3, 186);
+            this.tableLayoutPanel4.Location = new System.Drawing.Point(3, 239);
             this.tableLayoutPanel4.Name = "tableLayoutPanel4";
             this.tableLayoutPanel4.RowCount = 9;
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.90907F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.90906F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.90906F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.90906F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.90906F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.90906F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.52202F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 8.953286F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 8.070319F));
-            this.tableLayoutPanel4.Size = new System.Drawing.Size(128, 404);
+            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.tableLayoutPanel4.Size = new System.Drawing.Size(128, 347);
             this.tableLayoutPanel4.TabIndex = 4;
             // 
             // button6
@@ -611,9 +596,9 @@
             this.button6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.button6.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button6.Dock = System.Windows.Forms.DockStyle.Left;
-            this.button6.Location = new System.Drawing.Point(3, 291);
+            this.button6.Location = new System.Drawing.Point(3, 231);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(58, 40);
+            this.button6.Size = new System.Drawing.Size(58, 32);
             this.button6.TabIndex = 8;
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
@@ -624,9 +609,9 @@
             this.button5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.button5.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button5.Dock = System.Windows.Forms.DockStyle.Left;
-            this.button5.Location = new System.Drawing.Point(3, 243);
+            this.button5.Location = new System.Drawing.Point(3, 193);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(58, 42);
+            this.button5.Size = new System.Drawing.Size(58, 32);
             this.button5.TabIndex = 7;
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click_1);
@@ -641,9 +626,9 @@
             this.checkBox1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.checkBox1.Location = new System.Drawing.Point(3, 3);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(84, 17);
+            this.checkBox1.Size = new System.Drawing.Size(78, 17);
             this.checkBox1.TabIndex = 0;
-            this.checkBox1.Text = "Первые 109";
+            this.checkBox1.Text = "Первые 54";
             this.checkBox1.UseVisualStyleBackColor = true;
             this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged_1);
             // 
@@ -656,7 +641,7 @@
             this.checkBox2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Aqua;
             this.checkBox2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.checkBox2.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.checkBox2.Location = new System.Drawing.Point(3, 51);
+            this.checkBox2.Location = new System.Drawing.Point(3, 41);
             this.checkBox2.Name = "checkBox2";
             this.checkBox2.Size = new System.Drawing.Size(38, 17);
             this.checkBox2.TabIndex = 3;
@@ -671,7 +656,7 @@
             this.checkBox3.CheckState = System.Windows.Forms.CheckState.Checked;
             this.checkBox3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.checkBox3.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.checkBox3.Location = new System.Drawing.Point(3, 99);
+            this.checkBox3.Location = new System.Drawing.Point(3, 79);
             this.checkBox3.Name = "checkBox3";
             this.checkBox3.Size = new System.Drawing.Size(71, 17);
             this.checkBox3.TabIndex = 4;
@@ -686,7 +671,7 @@
             this.checkBox4.CheckState = System.Windows.Forms.CheckState.Checked;
             this.checkBox4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.checkBox4.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.checkBox4.Location = new System.Drawing.Point(3, 147);
+            this.checkBox4.Location = new System.Drawing.Point(3, 117);
             this.checkBox4.Name = "checkBox4";
             this.checkBox4.Size = new System.Drawing.Size(89, 17);
             this.checkBox4.TabIndex = 5;
@@ -701,36 +686,12 @@
             this.button4.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button4.Dock = System.Windows.Forms.DockStyle.Left;
             this.button4.Font = new System.Drawing.Font("Tahoma", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button4.Location = new System.Drawing.Point(3, 195);
+            this.button4.Location = new System.Drawing.Point(3, 155);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(58, 42);
+            this.button4.Size = new System.Drawing.Size(58, 32);
             this.button4.TabIndex = 6;
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
-            // 
-            // button7
-            // 
-            this.button7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button7.Location = new System.Drawing.Point(3, 373);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(122, 28);
-            this.button7.TabIndex = 9;
-            this.button7.Text = "Памятка по цветам";
-            this.button7.UseVisualStyleBackColor = true;
-            this.button7.Click += new System.EventHandler(this.button7_Click);
-            // 
-            // button8
-            // 
-            this.button8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button8.Location = new System.Drawing.Point(3, 337);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(122, 30);
-            this.button8.TabIndex = 10;
-            this.button8.Text = "Загруженность зоны";
-            this.button8.UseVisualStyleBackColor = true;
-            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // timer1
             // 
@@ -751,7 +712,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "Ассистент  ДРИ. НВАЭС Блок №6";
+            this.Text = "Ассистент  ДРИ.  РоАЭС Блок №4";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -826,9 +787,6 @@
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.ToolStripMenuItem изменитьИнформациюПоЗагрузкеToolStripMenuItem;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button8;
     }
 }
 
