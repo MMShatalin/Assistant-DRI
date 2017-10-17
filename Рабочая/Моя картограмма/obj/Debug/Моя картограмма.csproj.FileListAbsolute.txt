@@ -333,3 +333,17 @@ D:\GitHub\Assistant DRI\Рабочая\Моя картограмма\bin\Debug\�
 D:\GitHub\Assistant DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
 D:\GitHub\Assistant DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
 D:\GitHub\Assistant DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
+F:\Assistant-DRI\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
+F:\Assistant-DRI\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
+F:\Assistant-DRI\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
+F:\Assistant-DRI\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Загруженность_зоны.resources
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
