@@ -138,198 +138,44 @@ D:\Готовые проекты\Картограмма\Рабочая\Моя к
 D:\Готовые проекты\Картограмма\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
 D:\Готовые проекты\Картограмма\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
 D:\Готовые проекты\Картограмма\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
-C:\Users\phis7065\Desktop\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
-C:\Users\phis7065\Desktop\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
-C:\Users\phis7065\Desktop\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
-C:\Users\phis7065\Desktop\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
-C:\Users\phis7065\Desktop\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
-C:\Users\phis7065\Desktop\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
-C:\Users\phis7065\Desktop\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
-C:\Users\phis7065\Desktop\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
-C:\Users\phis7065\Desktop\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
-D:\Users\Михаил\Desktop\ДРИ иммитаторы\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
-D:\Users\Михаил\Desktop\ДРИ иммитаторы\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
-D:\Users\Михаил\Desktop\ДРИ иммитаторы\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
-D:\Users\Михаил\Desktop\ДРИ иммитаторы\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
-D:\Users\Михаил\Desktop\ДРИ иммитаторы\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
-D:\Users\Михаил\Desktop\ДРИ иммитаторы\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
-D:\Users\Михаил\Desktop\ДРИ иммитаторы\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
-D:\Users\Михаил\Desktop\ДРИ иммитаторы\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
-D:\Users\Михаил\Desktop\ДРИ иммитаторы\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
-D:\Users\Михаил\Desktop\ДРИ иммитаторы\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
-D:\Users\Михаил\Desktop\ДРИ иммитаторы\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
-D:\Users\Михаил\Desktop\ДРИ иммитаторы\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
-D:\Users\Михаил\Desktop\ДРИ иммитаторы\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторы1\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
-C:\Users\phis7065\Desktop\ДРИ иммитаторы1\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
-C:\Users\phis7065\Desktop\ДРИ иммитаторы1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторы1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\ДРИ иммитаторы1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\ДРИ иммитаторы1\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\ДРИ иммитаторы1\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\ДРИ иммитаторы1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторы1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторы2\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
-C:\Users\phis7065\Desktop\ДРИ иммитаторы2\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
-C:\Users\phis7065\Desktop\ДРИ иммитаторы2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторы2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\ДРИ иммитаторы2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\ДРИ иммитаторы2\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\ДРИ иммитаторы2\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\ДРИ иммитаторы2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторы2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторы3\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
-C:\Users\phis7065\Desktop\ДРИ иммитаторы3\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
-C:\Users\phis7065\Desktop\ДРИ иммитаторы3\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторы3\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\ДРИ иммитаторы3\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\ДРИ иммитаторы3\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\ДРИ иммитаторы3\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\ДРИ иммитаторы3\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторы3\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы3\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы3\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы3\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы3\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторы4\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
-C:\Users\phis7065\Desktop\ДРИ иммитаторы4\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
-C:\Users\phis7065\Desktop\ДРИ иммитаторы4\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторы4\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\ДРИ иммитаторы4\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\ДРИ иммитаторы4\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\ДРИ иммитаторы4\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\ДРИ иммитаторы4\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторы4\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы4\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы4\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы4\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы4\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторы41\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
-C:\Users\phis7065\Desktop\ДРИ иммитаторы41\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
-C:\Users\phis7065\Desktop\ДРИ иммитаторы41\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторы41\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\ДРИ иммитаторы41\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\ДРИ иммитаторы41\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\ДРИ иммитаторы41\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\ДРИ иммитаторы41\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторы41\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы41\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы41\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы41\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторы41\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 1\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 1\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 1\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 1\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Загруженность_зоны.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 1\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Загруженность_зоны.resources
-C:\Users\phis7065\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
-C:\Users\phis7065\Desktop\Для загрузки\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
-C:\Users\phis7065\Desktop\Для загрузки\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
-C:\Users\phis7065\Desktop\Для загрузки\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
-C:\Users\phis7065\Desktop\Для загрузки\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\Для загрузки\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\Для загрузки\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
-C:\Users\phis7065\Desktop\Для загрузки\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
-C:\Users\phis7065\Desktop\Для загрузки\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
-C:\Users\phis7065\Desktop\Для загрузки\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
-C:\Users\phis7065\Desktop\Для загрузки\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
-C:\Users\phis7065\Desktop\Для загрузки\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
-C:\Users\phis7065\Desktop\Для загрузки\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
-C:\Users\phis7065\Desktop\Для загрузки\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Загруженность_зоны.resources
-C:\Users\phis7065\Desktop\Для загрузки\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Загруженность_зоны.resources
-C:\Users\Михаил\Desktop\ДРИ иммитаторыRELEASE 2\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
-D:\Флешка MMSHATALIN\Програмирование\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
-D:\Флешка MMSHATALIN\Програмирование\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
-D:\Флешка MMSHATALIN\Програмирование\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
-D:\Флешка MMSHATALIN\Програмирование\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
-D:\Флешка MMSHATALIN\Програмирование\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
-C:\Users\admin\Desktop\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
-C:\Users\admin\Desktop\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
-C:\Users\admin\Desktop\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
-C:\Users\admin\Desktop\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
-C:\Users\admin\Desktop\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
-C:\Users\admin\Desktop\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
-C:\Users\admin\Desktop\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
-C:\Users\admin\Desktop\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
-C:\Users\admin\Desktop\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
-C:\Users\admin\Desktop\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Загруженность_зоны.resources
-C:\Users\admin\Desktop\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
-D:\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
-D:\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
-D:\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
-D:\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
-D:\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
-D:\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
-D:\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
-D:\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
-D:\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
-D:\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Загруженность_зоны.resources
-D:\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
-D:\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
-D:\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
-D:\Обучение программиста\Мои проекты\Ассистент ДРИ\Ассистент ДРИ (конец)\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
-D:\GitHub\Assistant DRI\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
-D:\GitHub\Assistant DRI\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
-D:\GitHub\Assistant DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
-D:\GitHub\Assistant DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
-D:\GitHub\Assistant DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
+D:\Готовые проекты\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
+D:\Готовые проекты\Картограмма 1\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
+D:\Готовые проекты\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
+D:\Готовые проекты\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
+D:\Готовые проекты\Картограмма 1\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
+D:\ОСНОВНЫЕ ДОКУМЕНТЫ для НВАЭС-2\Готовые проекты\Картограмма (обычная)\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
+D:\ОСНОВНЫЕ ДОКУМЕНТЫ для НВАЭС-2\Готовые проекты\Картограмма (обычная)\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
+D:\ОСНОВНЫЕ ДОКУМЕНТЫ для НВАЭС-2\Готовые проекты\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
+D:\ОСНОВНЫЕ ДОКУМЕНТЫ для НВАЭС-2\Готовые проекты\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
+D:\ОСНОВНЫЕ ДОКУМЕНТЫ для НВАЭС-2\Готовые проекты\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
+D:\ОСНОВНЫЕ ДОКУМЕНТЫ для НВАЭС-2\Готовые проекты\Картограмма (обычная)\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
+D:\ОСНОВНЫЕ ДОКУМЕНТЫ для НВАЭС-2\Готовые проекты\Картограмма (обычная)\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
+D:\ОСНОВНЫЕ ДОКУМЕНТЫ для НВАЭС-2\Готовые проекты\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
+D:\ОСНОВНЫЕ ДОКУМЕНТЫ для НВАЭС-2\Готовые проекты\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
+D:\ОСНОВНЫЕ ДОКУМЕНТЫ для НВАЭС-2\Готовые проекты\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
+D:\ОСНОВНЫЕ ДОКУМЕНТЫ для НВАЭС-2\Готовые проекты\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
+D:\ОСНОВНЫЕ ДОКУМЕНТЫ для НВАЭС-2\Готовые проекты\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
+D:\ОСНОВНЫЕ ДОКУМЕНТЫ для НВАЭС-2\Готовые проекты\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
+P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
+D:\НФИ\Загрузка\Фаза Б1.2\Картограмма (обычная visual studio)\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
+D:\НФИ\Загрузка\Фаза Б1.2\Картограмма (обычная visual studio)\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
+D:\НФИ\Загрузка\Фаза Б1.2\Картограмма (обычная visual studio)\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
+D:\НФИ\Загрузка\Фаза Б1.2\Картограмма (обычная visual studio)\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
+D:\НФИ\Загрузка\Фаза Б1.2\Картограмма (обычная visual studio)\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
+F:\Assistant-DRI\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
+F:\Assistant-DRI\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
+F:\Assistant-DRI\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
+F:\Assistant-DRI\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
+F:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache

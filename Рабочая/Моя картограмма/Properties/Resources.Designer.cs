@@ -163,6 +163,16 @@ namespace Моя_картограмма.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap atom_150x150 {
+            get {
+                object obj = ResourceManager.GetObject("atom_150x150", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap atonTR {
             get {
                 object obj = ResourceManager.GetObject("atonTR", resourceCulture);
@@ -346,6 +356,27 @@ namespace Моя_картограмма.Properties {
         internal static System.Drawing.Bitmap rotate1new {
             get {
                 object obj = ResourceManager.GetObject("rotate1new", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap stock_vector_arrow_reload_rotate_refresh_repeat_sign_on_rounded_square_glossy_icon_web_internet_button_with_143038792 {
+            get {
+                object obj = ResourceManager.GetObject("stock-vector-arrow-reload-rotate-refresh-repeat-sign-on-rounded-square-glossy-ico" +
+                        "n-web-internet-button-with-143038792", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Безымянный {
+            get {
+                object obj = ResourceManager.GetObject("Безымянный", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
