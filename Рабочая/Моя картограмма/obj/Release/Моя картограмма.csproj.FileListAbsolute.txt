@@ -78,3 +78,15 @@ P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (�
 P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.Form1.resources
 P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.Properties.Resources.resources
 P:\phisCommon\МОИ ДОКУМЕНТЫ\Шаталин\Картограмма (обычная)\Рабочая\Моя картограмма\obj\Release\Моя картограмма.csproj.GenerateResource.Cache
+D:\GitHub\Assistant-DRI\Рабочая\Моя картограмма\bin\Release\Моя картограмма.exe.config
+D:\GitHub\Assistant-DRI\Рабочая\Моя картограмма\bin\Release\Моя картограмма.exe
+D:\GitHub\Assistant-DRI\Рабочая\Моя картограмма\bin\Release\Моя картограмма.pdb
+D:\GitHub\Assistant-DRI\Рабочая\Моя картограмма\obj\Release\Моя картограмма.csprojResolveAssemblyReference.cache
+D:\GitHub\Assistant-DRI\Рабочая\Моя картограмма\obj\Release\Моя картограмма.csproj.ResolveComReference.cache
+D:\GitHub\Assistant-DRI\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.About.resources
+D:\GitHub\Assistant-DRI\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.DataGrInfo.resources
+D:\GitHub\Assistant-DRI\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.Form1.resources
+D:\GitHub\Assistant-DRI\Рабочая\Моя картограмма\obj\Release\Моя_картограмма.Properties.Resources.resources
+D:\GitHub\Assistant-DRI\Рабочая\Моя картограмма\obj\Release\Моя картограмма.csproj.GenerateResource.Cache
+D:\GitHub\Assistant-DRI\Рабочая\Моя картограмма\obj\Release\Моя картограмма.exe
+D:\GitHub\Assistant-DRI\Рабочая\Моя картограмма\obj\Release\Моя картограмма.pdb
