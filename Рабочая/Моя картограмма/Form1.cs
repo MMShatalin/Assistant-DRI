@@ -233,7 +233,7 @@ namespace Моя_картограмма
 
             //  MyCartogram.UpdateTVSNumber();
            // MyCartogram.DrawAllAxis();
-            MyCartogram.DrawGrid(NextTvs);
+         //   MyCartogram.DrawGrid(NextTvs);
 
             //MyCartogram.Zona.Sort();
 

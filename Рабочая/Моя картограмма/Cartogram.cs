@@ -388,7 +388,7 @@ namespace Моя_картограмма
     new Point(0, 0),
     new Point(this.pic.Width - 100, this.pic.Height),
     Color.LightBlue,   // Opaque red
-    Color.DarkBlue);  // Opaque blue
+    Color.Blue);  // Opaque blue
 
 
         }
@@ -404,7 +404,7 @@ namespace Моя_картограмма
             set { ScreanAngle = value; }
         }
 
-        public List<oneTVS> Zona
+        public List<oneTVS>  Zona
         {
             get { return _zona; }
             set { _zona = value; }
@@ -1176,7 +1176,7 @@ namespace Моя_картограмма
 new Point(0, 0),
 new Point(this.pic.Width - 100, this.pic.Height),
 Color.LightBlue,   // Opaque red
-Color.DarkBlue);  // Opaque blue
+Color.Blue);  // Opaque blue
 
 
 

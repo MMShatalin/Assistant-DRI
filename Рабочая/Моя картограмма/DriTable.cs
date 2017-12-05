@@ -35,7 +35,7 @@ namespace Моя_картограмма
                 //default:
                 //    break;
                 case 0:
-                    this._cord = new Point((int)(0.04 * PicWidth), (int)(PicWidth * 0.15));
+                    this._cord = new Point((int)(0.9 * PicWidth), (int)(PicWidth * 0.15));
                     break;
 
                 case 1:
@@ -45,12 +45,12 @@ namespace Моя_картограмма
 
 
                 case 2:
-                    this._cord = new Point((int)(PicWidth * 0.9), (int)(PicWidth * 0.8));
+                    this._cord = new Point((int)(PicWidth * 0.1), (int)(PicWidth * 0.8));
                     break;
 
                 ///По всей видимости на НВАЭС-2 эта будет основной режим.
                 case 3:
-                    this._cord = new Point((int)(PicWidth * 0.1), (int)(PicWidth * 0.88));
+                    this._cord = new Point((int)(PicWidth * 0.1), (int)(PicWidth * 0.15));
                     break;
                 default:
                     break;
