@@ -289,8 +289,8 @@ namespace Моя_картограмма
             //}
             //comboBox1.SelectedIndex = 0;
 
-         RotateRight();
-        // RotateLeft();
+        // RotateRight();
+        RotateLeft();
 
             timer1.Enabled = true;
 
@@ -1146,6 +1146,8 @@ namespace Моя_картограмма
         private void грПоЧасовойToolStripMenuItem_Click(object sender, EventArgs e)
         {
             RotateRight();
+           // this.Text = this.
+            
 
         }
 
