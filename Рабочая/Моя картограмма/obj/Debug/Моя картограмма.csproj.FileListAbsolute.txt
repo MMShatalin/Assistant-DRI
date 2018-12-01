@@ -192,3 +192,16 @@ D:\Belobrodsky\myAssistentDRI\Рабочая\Моя картограмма\obj\D
 D:\Belobrodsky\myAssistentDRI\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
 D:\Belobrodsky\myAssistentDRI\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
 D:\Belobrodsky\myAssistentDRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
+H:\Assistant-DRI\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe.config
+H:\Assistant-DRI\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.XML
+H:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.ResolveComReference.cache
+H:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.exe
+H:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.pdb
+H:\Assistant-DRI\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.exe
+H:\Assistant-DRI\Рабочая\Моя картограмма\bin\Debug\Моя картограмма.pdb
+H:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csprojResolveAssemblyReference.cache
+H:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.About.resources
+H:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.DataGrInfo.resources
+H:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Form1.resources
+H:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя_картограмма.Properties.Resources.resources
+H:\Assistant-DRI\Рабочая\Моя картограмма\obj\Debug\Моя картограмма.csproj.GenerateResource.Cache
